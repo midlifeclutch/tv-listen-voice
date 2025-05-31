@@ -11,7 +11,11 @@ import (
 )
 
 func main() {
-	f, err := os.Open("1-1910b6c8-6926-4468-9139-8c1c7819d730-1-1.dem")
+	if l := len(os.Args); l < 2 {
+		usage()
+	}
+
+	f, err := os.Open(os.Args[1])
 	if err != nil {
 		log.Panic("failed to open demo file")
 	}
@@ -50,6 +54,11 @@ func main() {
 		log.Panic("failed to parse demo: ", err)
 	}
 
+}
+
+func usage() {
+	fmt.Fprintf(os.Stderr, "Usage: tv-listen-voice.exe [demofile]\n")
+	os.Exit(1)
 }
 
 func binToDec(positions []int) uint64 {
