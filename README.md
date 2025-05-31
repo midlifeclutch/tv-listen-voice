@@ -13,7 +13,8 @@ Generate the value required to listen to a teams comms from a CS2 replay. Namely
 - Download `tv-listen-voice.exe` from the [Releases](https://github.com/midlifeclutch/tv-listen-voice/releases) page
 - In a CMD prompt or PowerShell window, run `tv-listen-voice.exe` with the extracted path of the demo.
 
-
 ```
-PS C:\Users\midlifeclutch\Downloads> .\tv-listen-voice.exe .\1-6a33ef9c-4432-41a9-aaf4-5f5b333dba02-1-1.dem\1-6a33ef9c-4432-41a9-aaf4-5f5b333dba02-1-1.dem
+PS C:\Users\midlifeclutch\Downloads> .\tv-listen-voice.exe .\1-5e34c677-eb7e-4795-a6ea-e3e4cf151d66-1-1.dem\1-5e34c677-eb7e-4795-a6ea-e3e4cf151d66-1-1.dem
+tv_listen_voice_indices 5672; tv_listen_voice_indices_h 5672 // team_kye111
+tv_listen_voice_indices 8656; tv_listen_voice_indices_h 8656 // team_otuka888
 ```
