@@ -12,6 +12,8 @@ github.com/golang/geo v0.0.0-20260302211937-87f5a40ea07a h1:7f/cr+n7Jtd7mzCLrx47
 github.com/golang/geo v0.0.0-20260302211937-87f5a40ea07a/go.mod h1:Mymr9kRGDc64JPr03TSZmuIBODZ3KyswLzm1xL0HFA8=
 github.com/golang/geo v0.0.0-20260415063119-550b242b3150 h1:F5CQANtNulclG+xJt370ohUujAEHq2XNBBAjkoSukQI=
 github.com/golang/geo v0.0.0-20260415063119-550b242b3150/go.mod h1:Mymr9kRGDc64JPr03TSZmuIBODZ3KyswLzm1xL0HFA8=
+github.com/golang/geo v0.0.0-20261106073233-5e8d6967632a h1:GLMvsMlp+kWJbqjyIav7/LBks3hMVyANhPVy+tSDA5M=
+github.com/golang/geo v0.0.0-20261106073233-5e8d6967632a/go.mod h1:bJozU6ZRa8d29WpXkTQZ42lWCOJ+SC3XA8sXnLqA5IU=
 github.com/golang/snappy v1.0.0 h1:Oy607GVXHs7RtbggtPBnr2RmDArIsAefDwvrdWvRhGs=
 github.com/golang/snappy v1.0.0/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
 github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=
@@ -34,8 +36,12 @@ github.com/markus-wa/gobitread v0.2.4 h1:BDr3dZnsqntDD4D8E7DzhkQlASIkQdfxCXLhWcI
 github.com/markus-wa/gobitread v0.2.4/go.mod h1:PcWXMH4gx7o2CKslbkFkLyJB/aHW7JVRG3MRZe3PINg=
 github.com/markus-wa/gobitread v0.2.5-0.20241202000432-3c3e0bc797c6 h1:VNn0S4GFv6y2d2W4PGDs1eEfWPyEQbmld9QUFSsVILg=
 github.com/markus-wa/gobitread v0.2.5-0.20241202000432-3c3e0bc797c6/go.mod h1:PcWXMH4gx7o2CKslbkFkLyJB/aHW7JVRG3MRZe3PINg=
+github.com/markus-wa/gobitread v0.2.5 h1:F5GxezkgQhnWsXWOf4mY1mLcSeDRI3onkIouG26nCEY=
+github.com/markus-wa/gobitread v0.2.5/go.mod h1:PcWXMH4gx7o2CKslbkFkLyJB/aHW7JVRG3MRZe3PINg=
 github.com/markus-wa/godispatch v1.4.1 h1:Cdff5x33ShuX3sDmUbYWejk7tOuoHErFYMhUc2h7sLc=
 github.com/markus-wa/godispatch v1.4.1/go.mod h1:tk8L0yzLO4oAcFwM2sABMge0HRDJMdE8E7xm4gK/+xM=
+github.com/markus-wa/godispatch v1.5.1 h1:cPLs9RKUn7EZvinLo5LDXvb7jHzukL7DNtz0bbOHvZs=
+github.com/markus-wa/godispatch v1.5.1/go.mod h1:tk8L0yzLO4oAcFwM2sABMge0HRDJMdE8E7xm4gK/+xM=
 github.com/markus-wa/ice-cipher-go v0.0.0-20230901094113-348096939ba7 h1:aR9pvnlnBxifXBmzidpAiq2prLSGlkhE904qnk2sCz4=
 github.com/markus-wa/ice-cipher-go v0.0.0-20230901094113-348096939ba7/go.mod h1:JIsht5Oa9P50VnGJTvH2a6nkOqDFJbUeU1YRZYvdplw=
 github.com/markus-wa/quickhull-go/v2 v2.2.0 h1:rB99NLYeUHoZQ/aNRcGOGqjNBGmrOaRxdtqTnsTUPTA=
@@ -44,6 +50,8 @@ github.com/mattn/go-runewidth v0.0.16 h1:E5ScNMtiwvlvB5paMFdw9p4kSQzbXFikJ5SQO6T
 github.com/mattn/go-runewidth v0.0.16/go.mod h1:Jdepj2loyihRzMpdS35Xk/zdY8IAYHsh153qUoGf23w=
 github.com/oklog/ulid/v2 v2.1.1 h1:suPZ4ARWLOJLegGFiZZ1dFAkqzhMjL3J1TzI+5wHz8s=
 github.com/oklog/ulid/v2 v2.1.1/go.mod h1:rcEKHmBBKfef9DhnvX7y1HZBYxjXb0cP5ExxNsTT1QQ=
+github.com/oklog/ulid/v2 v2.1.2 h1:IEclFb9JNvzYA6MW2SCxbLzcHTVsfqm3PrqGQJH5zec=
+github.com/oklog/ulid/v2 v2.1.2/go.mod h1:rcEKHmBBKfef9DhnvX7y1HZBYxjXb0cP5ExxNsTT1QQ=
 github.com/pborman/getopt v0.0.0-20170112200414-7148bc3a4c30/go.mod h1:85jBQOZwpVEaDAr341tbn15RS4fCAsIst0qp7i8ex1o=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
@@ -69,6 +77,8 @@ golang.org/x/exp v0.0.0-20260312153236-7ab1446f8b90 h1:jiDhWWeC7jfWqR9c/uplMOqJ0
 golang.org/x/exp v0.0.0-20260312153236-7ab1446f8b90/go.mod h1:xE1HEv6b+1SCZ5/uscMRjUBKtIxworgEcEi+/n9NQDQ=
 golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f h1:W3F4c+6OLc6H2lb//N1q4WpJkhzJCK5J6kUi1NTVXfM=
 golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f/go.mod h1:J1xhfL/vlindoeF/aINzNzt2Bket5bjo9sdOYzOsU80=
+golang.org/x/exp v0.0.0-20261112162710-dab199d8bf38 h1:TEfr+si4lXFLkDs5vA1AHO+H+rAgl2t3o1nymGanQ50=
+golang.org/x/exp v0.0.0-20261112162710-dab199d8bf38/go.mod h1:J3U+E8RzytcGvwz+uJuAP4zULJ2TkAQBnmPZMexpdXs=
 golang.org/x/sys v0.30.0 h1:QjkSwP/36a20jFYWkSue1YwXzLmsV5Gfq7Eiy72C1uc=
 golang.org/x/sys v0.30.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
 golang.org/x/text v0.22.0 h1:bofq7m3/HAFvbF51jz3Q9wLg3jkvSPuiZu/pD1XwgtM=
@@ -81,6 +91,8 @@ google.golang.org/protobuf v1.36.10 h1:AYd7cD/uASjIL6Q9LiTjz8JLcrh/88q5UObnmY3aO
 google.golang.org/protobuf v1.36.10/go.mod h1:HTf+CrKn2C3g5S8VImy6tdcUvCska2kB7j23XfzDpco=
 google.golang.org/protobuf v1.36.11 h1:fV6ZwhNocDyBLK0dj+fg8ektcVegBBuEolpbTQyBNVE=
 google.golang.org/protobuf v1.36.11/go.mod h1:HTf+CrKn2C3g5S8VImy6tdcUvCska2kB7j23XfzDpco=
+google.golang.org/protobuf v1.36.12 h1:pJOKDDOyeXErUroCihFAd5LQuwXBSpVnKGrj5o/fwxc=
+google.golang.org/protobuf v1.36.12/go.mod h1:HTf+CrKn2C3g5S8VImy6tdcUvCska2kB7j23XfzDpco=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
